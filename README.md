@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning HTML and CSS
-- 🤦‍♀️  Please motivate me...
+
 - 💬 Ask me about HTML and CSS
 - 📫 How to reach me: semsatajan@gmail.com
 
